@@ -71,3 +71,5 @@ def ClaseAnimal(especie, color):
             self.edad += 1
             return self.edad
     return Animal(especie,color)
+
+#prueba
